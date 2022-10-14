@@ -1,0 +1,15 @@
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\bin\Debug\net6.0\Homework1.exe
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\bin\Debug\net6.0\Homework1.deps.json
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\bin\Debug\net6.0\Homework1.runtimeconfig.json
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\bin\Debug\net6.0\Homework1.dll
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\bin\Debug\net6.0\Homework1.pdb
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.csproj.AssemblyReference.cache
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfoInputs.cache
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfo.cs
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.csproj.CoreCompileInputs.cache
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.dll
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\refint\Homework1.dll
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.pdb
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\Homework1.genruntimeconfig.cache
+D:\Geek Brains Программист\Знакомство с ЯП С#\Homeworks\Homework1\obj\Debug\net6.0\ref\Homework1.dll
