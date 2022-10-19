@@ -52,12 +52,12 @@ else
 
 Console.Write("Input a positive integer number: ");
 int number = Convert.ToInt32(Console.ReadLine());
-int currentNumber = 1;
+int currentNumber = 2;
 
 while(currentNumber <= number)
 {
     if(currentNumber % 2 == 0)
    { Console.Write(currentNumber + " ");
    }
-   currentNumber++;
+   currentNumber = currentNumber+2;
 }
