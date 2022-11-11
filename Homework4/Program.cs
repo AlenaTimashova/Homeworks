@@ -37,8 +37,8 @@ Console.Write("Input a number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Sum of the digits of {num1} is {Sum(num1)}");*/
 
-//Задача 29: Напишите программу, которая ненерирует массив из m элементов, заданный пользователем и выводит их на экран.
-
+//Задача 29: Напишите программу, которая генерирует массив из m элементов, заданный пользователем и выводит их на экран.
+/*
 int[] GetArray (int size){
 
     int[] array = new int[size];
@@ -64,5 +64,5 @@ Console.Write("Input a size for array: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = GetArray(number);
-ShowArray(myArray);
+ShowArray(myArray);*/
 
