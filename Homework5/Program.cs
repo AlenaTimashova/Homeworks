@@ -64,10 +64,9 @@ int SumOddIndexArray(int[] array){
 
     int sum = 0;
 
-    for (int i = 1; i < array.Length;)
+    for (int i = 1; i < array.Length; i+=2)
     {
         sum+= array[i];
-        i+=2;
     }    
         
     return sum;
@@ -84,8 +83,8 @@ int maxValue = Convert.ToInt32(Console.ReadLine());
 int[] myArray = CreateArray(number, minValue,maxValue);
 ShowArray(myArray);
 
-Console.WriteLine("Sum for numbers with odd index is: " + SumOddIndexArray(myArray)); */
-
+Console.WriteLine("Sum for numbers with odd index is: " + SumOddIndexArray(myArray)); 
+*/
 //Задача 38: Задайте массив вещественных чисел. 
 //Найдите разницу между максимальным и минимальным элементов массива.
 
