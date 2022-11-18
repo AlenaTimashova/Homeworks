@@ -64,5 +64,5 @@ Console.Write("Input a size for array: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = GetArray(number);
-ShowArray(myArray);*/
+ShowArray(myArray); 
 
